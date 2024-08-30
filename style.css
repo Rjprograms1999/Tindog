@@ -41,12 +41,3 @@ strong {
 
   font-weight: 400;
 }
-
-#title {
-  padding-bottom: none !important;
-}
-@media (min-width: 576px) and (max-width: 768px) {
-  #title {
-    padding-bottom: 3rem;
-  }
-}
