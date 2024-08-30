@@ -36,3 +36,6 @@ strong {
 
   font-weight: 400;
 }
+.col-sm-12 {
+  margin-bottom: 30px !important;
+}
