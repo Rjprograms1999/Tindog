@@ -21,7 +21,12 @@
   height: 3rem;
   border-radius: 0.75rem;
 }
-
+body {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
 .profile-img {
   height: 100px;
   border-radius: 50%;
