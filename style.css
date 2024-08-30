@@ -38,6 +38,6 @@ strong {
 }
 @media (min-width: 576px) and (max-width: 992px) {
   #title {
-    padding-bottom: 2rem;
+    padding-bottom: 3rem !important;
   }
 }
